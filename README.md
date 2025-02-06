@@ -1,1 +1,2 @@
 # EchoTunes-A-web-player
+"Echo Tunes" is a dynamic web player built using HTML, CSS, JavaScript, and PHP for the login system. It offers a premium feature where users can download entire playlists or individual songs to their system, designed specifically to cater to video editors looking for easy access to sound effects (SFX) and No Copyright Sounds (NCS) playlists for their projects. In addition to serving content creators in the reel and video editing space, Echo Tunes functions as a regular music player, delivering a smooth and engaging experience for all users.
